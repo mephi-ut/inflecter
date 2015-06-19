@@ -1,0 +1,3 @@
+[submodule "Inflect"]
+	path = Inflect
+	url = https://github.com/mephi-ut/Inflect
